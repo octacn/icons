@@ -23,8 +23,8 @@ export function SiteHeader() {
             </g>
           </svg>
           <p className="flex flex-col justify-center gap-4 pt-1.5">
-            <span className="text-lg sm:text-xl leading-0">Attendance</span>
-            <span className="text-sm leading-0">% Calculator</span>
+            <span className="text-lg sm:text-xl leading-0">Octacn</span>
+            <span className="text-sm leading-0">Icons</span>
           </p>
         </Link>
 
